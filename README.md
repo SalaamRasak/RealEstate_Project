@@ -1,7 +1,7 @@
 # Real Estate Dataset Analysis: King County House Sales
 
 ## Project Overview
-This project focuses on wrangling and analyzing real estate datasets, specifically examining house sales in King County, USA. The goal is to explore patterns in the housing market, utilizing Python libraries and statistical correlation and regression to derive insights. 
+This project focuses on wrangling and analyzing real estate datasets, specifically examining house sales in King County, USA. The goal is to explore patterns in the housing market, utilizing Python libraries, statistical correlation, and regression to derive insights. 
 
 ## Frameworks and Libraries 
 The Python libraries used include:
