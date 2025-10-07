@@ -19,8 +19,7 @@ The dataset consists of house sales in King County, USA, containing details like
 ![Data Summary](/Images/Screenshot%202025-10-07%20215015.png)
 
 - I used boxplot in the seaborn library to determine whether houses with a waterfront view or without a waterfront view have more price outliers
-![Boxplot View](/Images/Screenshot%202025-10-07%20215113.png)
-
+<img src="/Images/Screenshot%202025-10-07%20215113.png" alt="Box Plot" width="400" height=auto/>
 - I used the function regplot in the seaborn library to determine if the feature sqft_above is negatively or positively correlated with price.
 ![Correlation between Square ft vs Price](/Images/Screenshot%202025-10-07%20215149.png)
 
@@ -29,3 +28,4 @@ The dataset consists of house sales in King County, USA, containing details like
 
 - I used linear regression model to predict the 'price' using the feature 'sqft_living' then calculate the R^2. 
 ![Code Snipper](/Images/Screenshot%202025-10-07%20215304.png)
+
